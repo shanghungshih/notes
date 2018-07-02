@@ -1,4 +1,4 @@
-# Notes For AI
+# ML-DL-notes
 This is notes for AI
 
 ## Some others notes in Google Blog:
